@@ -1,3 +1,5 @@
+from typing import List
+
 class Solution:
     def threeConsecutiveOdds(self, arr: List[int]) -> bool:
         odd_count = 0
